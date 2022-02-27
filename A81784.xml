@@ -1,0 +1,509 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Daphnis or, a pastoral elegy upon the unfortunate and much-lamented death of Mr. Thomas Creech.</title>
+            <author>Froud, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81784</idno>
+            <idno type="STC">Wing D240</idno>
+            <idno type="STC">ESTC R231369</idno>
+            <idno type="EEBO-CITATION">99899954</idno>
+            <idno type="PROQUEST">99899954</idno>
+            <idno type="VID">137004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2479:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Daphnis or, a pastoral elegy upon the unfortunate and much-lamented death of Mr. Thomas Creech.</title>
+                  <author>Froud, John.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Deeve at Bernard's Inn-Gate in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Froud.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Creech, Thomas, 1659-1700 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:137004:1"/>
+            <pb facs="tcp:137004:1"/>
+            <p>A Paſtoral ELEGY ON THE DEATH OF Mr. <hi>THOMAS CREECH.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:137004:2"/>
+            <pb facs="tcp:137004:2" rendition="simple:additions"/>
+            <p>DAPHNIS: OR, A Paſtoral ELEGY Upon the Unfortunate and much-lamented DEATH OF Mr. <hi>THOMAS CREECH.</hi>
+            </p>
+            <q>
+               <l>—Negat quis Carmina Gallo?</l>
+               <l>Hunc etiam Lauri, hunc etiam flevere Myricae.</l>
+               <bibl>Virgil.</bibl>
+            </q>
+            <p>
+               <hi>LONDN,</hi> Printed for <hi>John Deeve</hi> at <hi>Bernard's Inn-Gate</hi> in <hi>Holborn,</hi> 1700</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:137004:3"/>
+            <pb n="1" facs="tcp:137004:3"/>
+            <head>DAPHNIS, &amp;c.</head>
+            <sp>
+               <stage>THYRSIS. ALEXIS.</stage>
+               <l>THE Roſie Morning with prevailing Light</l>
+               <l>Had now diſpell'd the humid Shades of Night,</l>
+               <l>And ſmiling <hi>Phaebus</hi> ſpread his Thirſty Beams</l>
+               <l>To drink the Dew, and taſt the Silver Streams:</l>
+               <l>When on a riſing Mountain's fragrant Side</l>
+               <l>By <hi>Flora</hi> deckt in all her gawdy Pride;</l>
+               <l>The mourning Shepherd, young <hi>Alexis</hi> lay,</l>
+               <l>Sickning at Light, and weary of the Day:</l>
+               <l>On conſcious Heav'n he fix'd his weeping Eyes,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> As if he ſought his <hi>Daphnis</hi> in the Skies.</l>
+               <l>
+                  <hi>Daphnis,</hi> who from the Earth was lately fled;</l>
+               <l>
+                  <hi>Daphnis,</hi> (he living) lov'd, and mourn'd for <hi>Daphnis</hi> dead.</l>
+               <l>When Generous Fortune kindly brought that way</l>
+               <l>Sad <hi>Thyrſis</hi> to aſſiſt the penſive Boy,</l>
+               <l>To be the kind Companion of his Woe;</l>
+               <l>That both their Tears might in one Current flow:</l>
+               <l>Thus then the Youth began a doleful Strain,</l>
+               <l>And thus beſpoke the Sympathizing Swain.</l>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:137004:4"/>
+               <speaker>Alexis.</speaker>
+               <l>Ah <hi>Thyrſis!</hi> haſt thou heard the diſmal Tale?</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> How <hi>Daphnis</hi> dy'd in yonder Gloomy Vale!</l>
+               <l>Say, couldſt thou think that he, whoſe Verſe could move</l>
+               <l>A Rock to Pity, or a Stone to Love.</l>
+               <l>Who could, like <hi>Ovid,</hi> tendreſt Thoughts inſtill</l>
+               <l>Should fall a Victim to a Woman's Will?</l>
+            </sp>
+            <sp>
+               <speaker>Thyrſis.</speaker>
+               <l>Yes, Shepherd, yes; the Story is too true!</l>
+               <l>Look, how the Groves have chang'd their verdant hiew!</l>
+               <l>The wither'd Leaves lie ſcatter'd all around,</l>
+               <l>And blaſted Flowers diſgrace the ſacred Ground.</l>
+               <l>Yes, he is dead! the poor unhappy Swain,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Lov'd beauteous <hi>LALAGE,</hi> but lov'd in vain;</l>
+               <l>Fantaſtick, proud, and conſcious of her Charms,</l>
+               <l>She ſcorn'd his Love, and fled his wiſhing Arms.</l>
+               <l>Nought cou'd prevail, tho' all Loves Arts he try'd:</l>
+               <l>She ſacrific'd the Shepherd to her Pride.</l>
+               <l>Ungentle Nymph, to thee we owe his Death,</l>
+               <l>'Twas <hi>LALAGE</hi> that rob'd poor <hi>Daphnis</hi> of his Breath.</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>Ah cruel Nymph! we've loſt the learned'ſt Swain</l>
+               <l>That ever ſung on our <hi>Arcadia's</hi> Plain:</l>
+               <l>What ſprightly Thoughts, what Joy did he inſpire!</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> When with ſuch Art he touch'd the <hi>Roman</hi> Lyre?</l>
+               <l>What tender Pity did our Souls invade,</l>
+               <l>When he bewail'd the Royal <hi>Grecian</hi> Maid?</l>
+               <l>
+                  <pb n="3" facs="tcp:137004:4"/>
+How well his Muſe the fatal Story told,</l>
+               <l>When ſhe the poor <hi>Lucretia</hi>'s Fate condol'd?</l>
+               <l>When <hi>Daphnis</hi> Sung, how did our Groves rejoyce,</l>
+               <l>And Grottos Eccho to his charming Voice?</l>
+               <l>How ſlow did ſilent <hi>Ouſa</hi> roul along,</l>
+               <l>When <hi>Daphnis</hi> taught us great <hi>Lucretia</hi>'s Song?</l>
+               <l>Where wandring Atoms in Confuſion hurl'd,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> Agreed by Chance, and ſo compos'd a World.</l>
+               <l>Whilſt Nervous Numbers with harmonious Feet,</l>
+               <l>In ſuch a ſoft, and tuneful Cadence meet;</l>
+               <l>As (to his laſting Honour) fully prove</l>
+               <l>Chance could not in ſuch Beauteous Order move.</l>
+               <l>Then, Cruel Nymph, how could thy Pride refuſe</l>
+               <l>So ſoft a Lover and ſo ſweet a Muſe?</l>
+               <l>Hadſt thou but yeilded to our <hi>Daphnis</hi> Love,</l>
+               <l>On every Green, in every blooming Grove,</l>
+               <l>The Nymphs and Swains had bleſt thy happy Name,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> And <hi>LALAGE,</hi> and <hi>Daphnis</hi> fill'd the Mouth of Fame.</l>
+               <l>But now both Nymphs, and Swains unite their Breath,</l>
+               <l>To Curſe thy Scorn, and mourn the Shepherds Death:</l>
+               <l>Whoſe Shade now wandring in the penſive Grove,</l>
+               <l>Still, ſtill complains of <hi>LALAGE,</hi> and Love.</l>
+               <l>
+                  <hi>Daphnis</hi> farewel, farewel unhappy Swain!</l>
+               <l>May'ſt thou in <hi>Lethe</hi>'s Lake forget thy Pain,</l>
+               <l>
+                  <pb n="4" facs="tcp:137004:5"/>
+And in oblivion ſleep, till thou no more</l>
+               <l>Remember what thou didſt, or what thou wert before.</l>
+            </sp>
+            <sp>
+               <speaker>Thyrſis.</speaker>
+               <l>See yonder Sheep, how ragged now and bare,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> A happy Flock, whilſt they were <hi>Daphnis</hi> Care,</l>
+               <l>But now they mope, and ſtraggling o're the Plain</l>
+               <l>Lament all Day, and mourn their abſent Swain:</l>
+               <l>No more they Joy to Crop the tender Buds,</l>
+               <l>Nor ſeek at Noon cool Springs, and ſhady Woods.</l>
+               <l>In neither Sun, nor Shade, they now delight,</l>
+               <l>Nor dread the Foxes, or the Wolves by Night.</l>
+               <l>here pin'd to Death, a harmleſs Lambkin lies,</l>
+               <l>And there for Grief his bleating Mother dyes.</l>
+               <l>As if ſhe did with her departing Breath</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Invoke juſt Heaven t'avange her Maſters Death.</l>
+            </sp>
+            <sp>
+               <speaker>Alex.</speaker>
+               <l>And <hi>Pan</hi> will ſure revenge the Shepherd's Fate</l>
+               <l>Altho' perhaps his vengeance comes but late.</l>
+               <l>Laſt Night returning home, in yonder Grove,</l>
+               <l>Where we were us'd to ſing, and talk of Love,</l>
+               <l>I heard great <hi>Pan,</hi> and all the Sylvan Train</l>
+               <l>Of <hi>Daphnis</hi> Love, and <hi>Daphnis</hi> death complain.</l>
+               <l>The weeping Heav'ns a Shower of Tears diſtill'd,</l>
+               <l>And all the Woods were with loud Sorrow fill'd.</l>
+               <l>Whilſt mournful Ecchoes all their Sighs rebound,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Wiſhing they had been ſomething more than Sound.</l>
+               <l>
+                  <pb n="5" facs="tcp:137004:5"/>
+                  <hi>Pan</hi> moſt of all the Shepherd's Death deplor'd,</l>
+               <l>He <hi>Daphnis</hi> lov'd, and <hi>Daphnis</hi> him ador'd.</l>
+               <l>Oh (my dear Boy) he cry'd, why wouldſt thou dare</l>
+               <l>To view a Face ſo tempting, and ſo Fair?</l>
+               <l>Why, why didſt thou indulge the ſecret Fire?</l>
+               <l>Ah! why wouldſt thou admit the fond deſire,</l>
+               <l>And hope th' imperious <hi>LALAGE</hi> to move?</l>
+               <l>Why didſt thou dye? (alas!) why didſt thou Love?</l>
+               <l>But 'tis in vain to ask; 'twas ſo decreed,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> So I coy <hi>Syrnix</hi> chas'd, and caught a trembling Reed.</l>
+               <l>Fair Fatal Sex! who can our Souls ſurprize</l>
+               <l>With tender Looks, and ſoft bewitching Eyes,</l>
+               <l>Were you but half as pitiful and kind,</l>
+               <l>The God of Love had not been counted blind.</l>
+               <l>On you we Gaze, and feel a pleaſing Pain</l>
+               <l>Steal to our Hearts, and glide thro' every Vein.</l>
+               <l>Till drunk with Love our weakneſs we betray;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> And dye, if you refuſe to yield the Joy!</l>
+               <l>More had he ſpoke; but Words began to fail,</l>
+               <l>And breathleſs Ecchoes murmur'd in the Vale;</l>
+               <l>Convulſive Sorrow ſwell'd his throbbing Breaſt,</l>
+               <l>Adieu! adieu! he cry'd, and ſigh'd the reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Thyr.</speaker>
+               <l>But ſay what chance, what luckleſs Fortune drew</l>
+               <l>The ſcornful Virgin to the Shepherd's View?</l>
+               <l>
+                  <pb n="6" facs="tcp:137004:6"/>
+Where did his fatal Paſſion firſt begin?</l>
+               <l>Ah! Where was ſhe by wretched <hi>Daphnis</hi> ſeen.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>Beneath a Shade to ſhun the Heat of Day,</l>
+               <l>On <hi>Ouſa</hi>'s flow'ry Banks our <hi>Daphnis</hi> lay;</l>
+               <l>Whilſt his glad Flocks around their Maſter feed,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="120"/> Charm'd with the Muſick of his Voice, and Reed:</l>
+               <l>Of <hi>Chaos</hi> firſt he ſung, and boundleſs Space,</l>
+               <l>Before the Birth of Matter, Time, or Place;</l>
+               <l>Before Old Night had felt the piercing Ray</l>
+               <l>Of Light, and yielded to invading Day.</l>
+               <l>Then, how the wondrous Univerſe began,</l>
+               <l>What Order thro' the new-made Structure ran;</l>
+               <l>The Birth of Nature, and the Birth of Man.</l>
+               <l>Then chang'd his Subject, and in ſofter Strains</l>
+               <l>Diſcover'd <hi>Grecian</hi> Loves, to <hi>Brittiſh</hi> Swains.</l>
+               <l>Whilſt <hi>LALAGE</hi> from an adjacent Glade,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="130"/> (Where trembling Boughs compos'd a moving Shade)</l>
+               <l>With Pleaſure liſten'd to his warbling Airs,</l>
+               <l>And drunk the pleaſing Tales with greedy Ears:</l>
+               <l>Then o're the Lawns ſhe trips with nimble Feet</l>
+               <l>To know who 'twas ſung ſo divinely Sweet;</l>
+               <l>And as ſhe paſt along, th' impatient Maid</l>
+               <l>With curious Eyes each ſecret Place ſurvey'd,</l>
+               <l>Still following Eccho as a faithful Guide,</l>
+               <l>Till ſhe at diſtance had the Shepherd ſpy'd.</l>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:137004:6"/>
+               <speaker>Thyrſis.</speaker>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="140"/> Ah happy Swain!</l>
+               <l>Hadſt thou but fled from that unhappy Place,</l>
+               <l>And never ſeen her fair enchanting Face,</l>
+               <l>Thou yet hadſt been the Lord of all our Plains,</l>
+               <l>And we yet heard thy ſoft harmonious Strains.</l>
+            </sp>
+            <sp>
+               <speaker>Alexis.</speaker>
+               <l>But <hi>Daphnis</hi> to his Fate with Pleaſure run,</l>
+               <l>He ſaw the Nymph, he lov'd, and was undone.</l>
+               <l>With haughty Looks, and a diſdainful Mien</l>
+               <l>Apace ſhe walk'd, and croſt the ſhaded Green;</l>
+               <l>The Shepherd view'd her as ſhe paſt along,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="150"/> Dropt down his Reed, and ſtrait forgot his Song,</l>
+               <l>With wiſhing Eyes he gaz'd upon her Charms,</l>
+               <l>And wou'd have dy'd t'have dy'd within her Arms;</l>
+               <l>Deep draughts of Love he drunk, and ſtrong deſire,</l>
+               <l>His Breaſt, like <hi>Etna,</hi> glow'd with inward Fire,</l>
+               <l>Which when the Nymph perceiv'd, more proud and coy</l>
+               <l>She look'd, and ſmil'd with a malicious Joy.</l>
+               <l>Nor could he ſince the cruel Tyrant move</l>
+               <l>(Obdurate Maid) to Pity or to Love.</l>
+               <l>The ſad, the direful Paſſion ſtill increas'd,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="160"/> Ten Thouſand raging Thoughts diſtract his Breaſt.</l>
+               <l>His Flock and darling Muſe no longer were</l>
+               <l>His dear delight, his Pleaſure, and his Care;</l>
+               <l>The Nymph, the Nymph, he thinks of nought but her.</l>
+               <l>
+                  <pb n="8" facs="tcp:137004:7"/>
+But hapleſs Youth!—</l>
+               <l>The more he lov'd, the more ſhe ſcorn'd his Flame,</l>
+               <l>And ſeem'd to hate both Love and <hi>Daphnis</hi> Name.</l>
+               <l>Then from our Groves to yonder Wood he flies,</l>
+               <l>(Strange Power of Love!) and there deſpairing dies.</l>
+            </sp>
+            <sp>
+               <speaker>Thyrſis.</speaker>
+               <l>The laſt time I the wretched Swain beheld,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="170"/> Was on a Sunny Bank in <hi>Aegon</hi>'s Field;</l>
+               <l>All Fire himſelf, he minded not to ſhun</l>
+               <l>The Heat of Day, or fly the ſcorching Sun;</l>
+               <l>Wildly he ſtar'd, his Face look'd pale, and wan,</l>
+               <l>He ſigh'd, and languiſh'd like a dying Man.</l>
+               <l>When to him thus I ſpoke—</l>
+               <l>Unhappy Youth!—and can there be no Cure,</l>
+               <l>What Tortures doſt thou feel, what Pains endure?</l>
+               <l>Whilſt by a cruel unrelenting Maid,</l>
+               <l>Thou art to Miſery, and Death betray'd.</l>
+               <l>Ah, canſt thou not forget her fatal Charms,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="180"/> And take ſome kinder Beauty to thy Arms?</l>
+               <l>Return, return to our abandon'd Grove;</l>
+               <l>And there thou mayſt be happy in thy Love.</l>
+               <l>For thee in amorous Fires <hi>Lycoris</hi> burns,</l>
+               <l>For thee the lovely <hi>Galetea</hi> mourns.</l>
+               <l>Wer't thou from this inglorious Bondage free,</l>
+               <l>A Thouſand Bleſſings wait to fall on thee.</l>
+               <l>The Jolly Troops that us'd to hear thy Lays,</l>
+               <l>And crown thy Brows with Wreaths of verdant Bays:</l>
+               <l>
+                  <pb n="9" facs="tcp:137004:7"/>
+In Sighs and Tears of thy hard Fate complain,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="190"/> Begging kind Heav'n to break the ſubtle Chain</l>
+               <l>Which holds thy Heart; and thy ſweet Muſe reſtore;</l>
+               <l>That thou mayſt charm them, as thou didſt before.</l>
+               <l>Thy ſcatter'd Flooks too o're the Foreſts roam,</l>
+               <l>Wanting their Shepherd to compell them home.</l>
+               <l>Riſe then dear <hi>Daphnis,</hi> give this Fondneſs o're,</l>
+               <l>And think of cruel <hi>LALAGE</hi> no more.</l>
+               <l>Thus I—and thus reply'd the ſighing Swain,</l>
+               <l>Ah <hi>Thyrſis,</hi> if thou wouldſt remove my Pain,</l>
+               <l>Give me my Love, ſo may I ſooth my Grief,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="200"/> Forget my Cares, and grow more fond of Life:</l>
+               <l>For tho' ſo proud, diſdainful, and unkind,</l>
+               <l>Without her I can hope no Peace to find;</l>
+               <l>My wandring Thoughts her Form do's ſtill purſue,</l>
+               <l>And ſtill my Soul ha's <hi>LALAGE</hi> in view.</l>
+               <l>Ah ſavage Fair, wouldſt thou this bounty give,</l>
+               <l>(For ſince thou wilt not Love, I cannot Live)</l>
+               <l>Wouldſt thou but deign to cloſe my trembling Eyes,</l>
+               <l>Or drop a Tear or two, as <hi>Daphnis</hi> dyes:</l>
+               <l>With Joy, I'd meet the cold Embrace of Death,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="210"/> And bleſs my Charmer with my lateſt Breath.</l>
+               <l>Didſt thou but Rage with ſuch a fierce deſire,</l>
+               <l>I'd ruſh thro' foaming Seas, and Storms of Fire,</l>
+               <l>
+                  <pb n="10" facs="tcp:137004:8"/>
+Attempt the greateſt Dangers, and not grieve</l>
+               <l>To part with Life, ſo <hi>LALAGE</hi> might Live.</l>
+               <l>But thou malicious fair one, with Diſdain!</l>
+               <l>Laughs at my Grief, and ſmiling mock'ſt my Pain.</l>
+               <l>Be gone ye Quacks, your Arts no longer boaſt,</l>
+               <l>In ſpight of all your Med'cines I am loſt;</l>
+               <l>Be gone ye Cheats, who with vain Charms pretend</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="220"/> To make departed Shades again aſcend:</l>
+               <l>Be gone ye Zealots, who at Altars bow;</l>
+               <l>The Gods are deaf, and cannot hear you now.</l>
+               <l>I rave, I rage, I burn, oh! let me fly</l>
+               <l>To ſome dark deſart Place, and there I'll dye.</l>
+               <l>Thus ſpoke the Swain, and acted as he ſaid,</l>
+               <l>Raving to yonder gloomy Wood he fled.</l>
+               <l>Where, for a while, with piercing Sighs and Groans</l>
+               <l>He fills the Shades, and his dire Fate bemoans;</l>
+               <l>Repeating ſtill the cruel Charmer's Name,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="230"/> And on each Tree records his hapleſs Flame.</l>
+               <l>Till quite o'erwhelm'd with Woe and drown'd in Grief,</l>
+               <l>He thus gave up the ſad remains of Life.</l>
+               <l>Farewel ye Swains! to Death's dark Courts I go</l>
+               <l>To mourn amongſt the weeping Shades below.</l>
+               <l>Farewel ye Streams, and conſcious Groves, he cry'd:</l>
+               <l>So did the dreadful work of Fate, and dy'd.</l>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:137004:8"/>
+               <speaker>Alex.</speaker>
+               <l>Unhappy Youth! What could the Fates deſign</l>
+               <l>To bleſs the World with ſuch a Muſe as thine,</l>
+               <l>Yet ſuffer Death to raviſh her away,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="240"/> E're ſhe could half her ſmiling Charms diſplay?</l>
+               <l>What Star, what baleful Planet rul'd thy Birth?</l>
+               <l>Shedding malignant Rays upon the Earth,</l>
+               <l>That thou ſhouldſt dye amidſt thy Vernal Bloom,</l>
+               <l>Before thy Muſe had brought her Harveſt home!</l>
+               <l>But 'twas a diſmal, ſad, untimely Death</l>
+               <l>That robb'd ſo ſoon the Shepherd of his Breath.</l>
+               <l>Thus blooming Trees are nipt with killing Froſt,</l>
+               <l>Thus budding Flowers harſh Mildews often blaſt.</l>
+               <l>Hadſt thou ſurviv'd, what Wonders had we ſeen!</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="250"/> What liſtning Crowds had throng'd each Grove and Green.</l>
+               <l>Upon thy Voice the Nymphs and Swains had hung,</l>
+               <l>As when before great <hi>Tytyrus</hi> ſweetly ſung.</l>
+            </sp>
+            <sp>
+               <speaker>Thyrſis.</speaker>
+               <l>But <hi>Tityrus</hi> is gone, and <hi>Daphnis</hi> fled,</l>
+               <l>And all our Hopes are with the Shepherds, dead.</l>
+               <l>Farewel dear Youth, ſo faſt my Tears do flow,</l>
+               <l>That Words are wanting to expreſs my Woe.</l>
+               <l>As <hi>Hebrus</hi> ſtopt for Grief his golden Side,</l>
+               <l>When on it's Banks the tuneful <hi>Orpheus</hi> dy'd;</l>
+               <l>So do our Groves, and Rivers ſeem to mourn,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="260"/> In ſilent Sorrow, for their Swains return.</l>
+            </sp>
+            <lg>
+               <pb n="12" facs="tcp:137004:9"/>
+               <l>But thou canſt ne're return—</l>
+               <l>For thou haſt croſt the irreameable Lake,</l>
+               <l>And <hi>Charon</hi>'s Boat comes always empty back.</l>
+            </lg>
+            <lg>
+               <l>Here did the Swains their mournful Theme give o're,</l>
+               <l>Sighs ſtopt their Words, and they could ſpeak no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>Lately Printed,</hi>
+               <lb/>
+KIng <hi>Henry</hi> IV. with the Humours of Sir <hi>John Falſtaff.</hi> A Tragi-Co<g ref="char:EOLhyphen"/>medy, as it is Acted at the Theatre in <hi>Little Lincolns-Inn-Fields.</hi> Revived, with Alterations. Printed for <hi>John Deeve</hi> at <hi>Bernard's Inn-Gate</hi> in <hi>Holborn:</hi>
+               <lb/>
+               <hi>Where you may be furniſh'd with moſt Plays.</hi>
+            </p>
+            <pb facs="tcp:137004:9" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
